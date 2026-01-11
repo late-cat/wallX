@@ -12,7 +12,7 @@ cd wallX
 
 ### 2. Add Your Video
 - Place your video file in the `wallX` folder
-- Rename it to **`video.webm`** or **`video.mp4`**
+- Rename it to **`video.webm`**, **`video.mp4`**, **`video.mov`**, or **`video.ogg`**
 
 ### 3. Set Up in Plash
 1. Click the **Plash icon** in the menu bar
@@ -33,13 +33,13 @@ Edit `style.css` line 21:
 ## Tips
 
 - **Recommended format**: WebM (smaller file size)
-- **Also works with**: MP4
+- **Also works with**: MP4, MOV, OGG
 - **For best results**: Use videos that loop seamlessly
 
 ## Troubleshooting
 
 **Video not playing?**
-- Make sure video is named `video.webm` or `video.mp4`
+- Make sure video is named `video.webm`, `video.mp4`, `video.mov`, or `video.ogg`
 - Refresh: Click Plash icon → "Websites..." → Select yours → "Revert"
 
 **Black screen?**
