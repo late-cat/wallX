@@ -1,4 +1,4 @@
-# Video Wallpaper for macOS (Plash)
+# wallX - Video Wallpaper for macOS
 
 A simple template to use any video as your macOS wallpaper using [Plash](https://sindresorhus.com/plash) ([App Store](https://apps.apple.com/in/app/plash/id1494023538?mt=12)).
 
@@ -6,18 +6,19 @@ A simple template to use any video as your macOS wallpaper using [Plash](https:/
 
 ### 1. Clone This Repository
 ```bash
-git clone https://github.com/late-cat/splash.git
+git clone https://github.com/late-cat/splash.git wallX
+cd wallX
 ```
 
 ### 2. Add Your Video
-- Place your video file in the `splash` folder
+- Place your video file in the `wallX` folder
 - Rename it to **`video.webm`** or **`video.mp4`**
 
 ### 3. Set Up in Plash
 1. Click the **Plash icon** in the menu bar
 2. Click **"Add Website..."**
 3. Click **"Local Website..."** button
-4. Navigate to the `splash` folder and select it
+4. Navigate to the `wallX` folder and select it
 5. Click **"Choose"**
 
 Done! Your video is now your wallpaper. 🎉
