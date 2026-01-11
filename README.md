@@ -1,6 +1,6 @@
 # Video Wallpaper for macOS (Plash)
 
-A simple template to use any video as your macOS wallpaper using [Plash](https://sindresorhus.com/plash).
+A simple template to use any video as your macOS wallpaper using [Plash](https://apps.apple.com/in/app/plash/id1494023538?mt=12).
 
 ## Quick Start
 
