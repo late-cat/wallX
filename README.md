@@ -49,7 +49,7 @@ Edit `style.css` line 21:
 ## File Structure
 
 ```
-splash/
+wallX/
 ├── index.html    # Main file (Plash loads this)
 ├── style.css     # Video styling
 ├── video.webm    # Your video (add this)
