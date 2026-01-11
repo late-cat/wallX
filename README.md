@@ -6,7 +6,7 @@ A simple template to use any video as your macOS wallpaper using [Plash](https:/
 
 ### 1. Clone This Repository
 ```bash
-git clone https://github.com/late-cat/splash.git wallX
+git clone https://github.com/late-cat/wallX.git
 cd wallX
 ```
 
