@@ -21,7 +21,7 @@ cd splash
 
 ### 2. Add Your Video
 - Place your video file in the project folder
-- Rename it to `video.webm` (or update `index.html` with your filename)
+- Rename it to **`video.webm`** OR **`video.mp4`**
 - Supported formats: `.webm`, `.mp4`
 
 ### 3. Open in Plash
